@@ -1,2 +1,2 @@
-# ALALA
-ALALA - Advanced AI in Agriculture Project
+# ALALA - Advanced AI in Agriculture Project
+
